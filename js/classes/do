@@ -1,0 +1,9 @@
+>do
+>touch
+>touch class{i}.php
+>done
+
+>ls -ltr
+
+
+
